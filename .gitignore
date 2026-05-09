@@ -1,3 +1,12 @@
+**/checkpoint*/
+*.pt
+*.bin
+*.safetensors
+
+my_exercise/data/
+my_exercise/model/
+
+
 _site/
 .sass-cache/
 .jekyll-cache/
